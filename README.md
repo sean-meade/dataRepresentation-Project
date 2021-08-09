@@ -18,7 +18,7 @@ My web app trys to solve two main problems runners have when training regularly 
 
 2. What is the weather going to be like on the date and time I have decided to go for a run.
 
-Using Google maps requires you to choose a route before submitting to see the distance of it. Then you have to go somewhere else to see the weather information for the date and time of your run. My plan with this app was to make something that put this information in one nice easy window.
+Using Google maps requires you to choose a route before submitting to see the distance of it, if the distance isn't the desired length you have to click back out adjust your route and go again. Then you have to go somewhere else to see the weather information for the date and time of your run. My plan with this app was to make something that put this information in one nice easy window.
 
 ## Method
 
